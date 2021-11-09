@@ -45,7 +45,7 @@
 
 [![Twitter: @AhsanTafsirul](https://img.shields.io/twitter/follow/ahsantafsirul?style=social)](https://twitter.com/AhsanTafsirul)
 [![Linkedin: Tafsirul-Ahsan](https://img.shields.io/badge/tafsirul-ahsan?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tafsirul-ahsan/)]
-[![GitHub: Tafsirul-Ahsan]<img align="left" alt="Tafsirul's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />(https://github.com/Tafsirul-Ahsan)
+[![GitHub: Tafsirul-Ahsan](https://img.shields.io/badge/tafsirul-ahsan?style=flat-square&logo=Github&logoColor=white&link=https://www.linkedin.com/in/tafsirul-ahsan/)](https://github.com/Tafsirul-Ahsan)
 
 **Languages:**  
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
