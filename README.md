@@ -21,7 +21,7 @@
 <a href="https://www.instagram.com/tafsirul_ahsan/">
   <img align="left" alt="Tafsirul's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a href="https://www.facebook.com/tafsirul-ahsan">
+<a href="https://www.facebook.com/people/Tafsirul-Ahsan/100013751976580/">
   <img align="left" alt="Tafsirul's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 <a href="https://dev.to/tafsirul-ahsan">
