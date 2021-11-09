@@ -15,7 +15,7 @@
 <a href="https://github.com/tafsirul-ahsan/">
   <img align="left" alt="Tafsirul's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-<a href="https://t.me/loadingparvez">
+<a href="https://t.me/Tafsirul Ahsan">
   <img align="left" alt="Tafsirul's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
 <a href="https://www.instagram.com/tafsirul-ahsan/">
