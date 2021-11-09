@@ -6,7 +6,7 @@
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=tafsirul-ahsan&label=Views&color=blue&style=plastic" alt="tafsirul-ahsan" /> </p>
 
-<a href="https://twitter.com/tafsirul-ahsan">
+<a href="https://twitter.com/ahsantafsirul">
   <img align="left" alt="Tafsirul's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/tafsirul-ahsan/">
