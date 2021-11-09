@@ -44,7 +44,7 @@
 - ⚡ Fun fact: I spend almost 3/4 hours Reading Tech Books everyday.
 
 [![Twitter: @AhsanTafsirul](https://img.shields.io/twitter/follow/ahsantafsirul?style=social)](https://twitter.com/AhsanTafsirul)
-[![Linkedin: Tafsirul-Ahsan](https://img.shields.io/badge/tafsirul-ahsan?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tafsirul-ahsan/)]
+[![Linkedin: Tafsirul-Ahsan](https://img.shields.io/badge/tafsirul-ahsan?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tafsirul-ahsan/)
 [![GitHub: Tafsirul-Ahsan](https://img.shields.io/badge/tafsirul-ahsan?style=flat-square&logo=Github&logoColor=white&link=https://www.linkedin.com/in/tafsirul-ahsan/)](https://github.com/Tafsirul-Ahsan)
 
 **Languages:**  
