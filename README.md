@@ -18,7 +18,7 @@
 <a href="https://t.me/TafsirulAhsan">
   <img align="left" alt="Tafsirul's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
-<a href="https://www.instagram.com/tafsirul-ahsan/">
+<a href="https://www.instagram.com/tafsirul_ahsan/">
   <img align="left" alt="Tafsirul's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <a href="https://www.facebook.com/tafsirul-ahsan">
