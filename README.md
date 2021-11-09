@@ -2,7 +2,7 @@
 
 <p align="center"> <a href="https://github.com/tafsirul-ahsan/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tafsirul-ahsan" alt="tafsirul-ahsan" /></a> </p>
 
-<img align="right" alt="GIF" src="https://github.com/Tafsirul-Ahsan/TafsirulAhsan/blob/main/code.jpg" width="250" height="370" />
+<img align="right" alt="GIF" src="https://github.com/Tafsirul-Ahsan/TafsirulAhsan/blob/main/code.jpg" width="285" height="370" />
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=tafsirul-ahsan&label=Views&color=blue&style=plastic" alt="tafsirul-ahsan" /> </p>
 
